@@ -14,7 +14,7 @@ On Clicking On Play Rhymes Button You Will be Transfered to next Page (XyleRhyme
 
 ## XyleRhymesAction
 
-![Finished App] (https://github.com/ajaysharma388/xylo_phone/blob/master/Deployement%20Images/xyloPhoneMain.png)
+![Finished App](https://github.com/ajaysharma388/xylo_phone/blob/master/Deployement%20Images/xyloPhoneMain.png)
 
 
 ## Getting Started
